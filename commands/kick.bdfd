@@ -1,0 +1,10 @@
+$nomention
+
+$title[🚪 Usuário Expulso]
+$description[**Usuário:** {user}
+**Motivo:** {reason}
+**Moderador:** {author}]
+$color[FFA500]
+$footer[Ação moderadora]
+
+$addTimestamp
