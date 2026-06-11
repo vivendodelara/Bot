@@ -1,0 +1,10 @@
+$nomention
+
+$title[🔓 Canal Desbloqueado]
+$description[**Canal:** {channel}
+**Ação:** Canal desbloqueado para uso
+**Moderador:** {author}]
+$color[00FF00]
+$footer[Sistema de proteção]
+
+$addTimestamp
