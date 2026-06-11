@@ -1,0 +1,10 @@
+$nomention
+
+$title[⛔ Usuário Banido]
+$description[**Usuário:** {user}
+**Motivo:** {reason}
+**Moderador:** {author}]
+$color[FF0000]
+$footer[Ação moderadora]
+
+$addTimestamp
