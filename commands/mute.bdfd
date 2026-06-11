@@ -1,0 +1,10 @@
+$nomention
+
+$title[🔇 Usuário Silenciado]
+$description[**Usuário:** {user}
+**Duração:** {time}
+**Moderador:** {author}]
+$color[9370DB]
+$footer[Ação moderadora]
+
+$addTimestamp
