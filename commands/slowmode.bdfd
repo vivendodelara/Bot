@@ -1,0 +1,10 @@
+$nomention
+
+$title[🐌 Modo Lento Ativado]
+$description[**Canal:** {channel}
+**Intervalo:** {seconds}s entre mensagens
+**Moderador:** {author}]
+$color[1E90FF]
+$footer[Sistema de modo lento]
+
+$addTimestamp
