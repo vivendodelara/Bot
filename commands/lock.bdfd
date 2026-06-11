@@ -1,0 +1,10 @@
+$nomention
+
+$title[🔒 Canal Travado]
+$description[**Canal:** {channel}
+**Ação:** Canal travado para leitura
+**Moderador:** {author}]
+$color[FF0000]
+$footer[Sistema de proteção]
+
+$addTimestamp
