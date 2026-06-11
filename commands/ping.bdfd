@@ -1,0 +1,9 @@
+$nomention
+
+$title[🏓 Pong!]
+$description[Latência: **{ping}ms**
+Latência da API: **{latency}ms**]
+$color[7289DA]
+$footer[Comando solicitado por {author}]
+
+$addTimestamp
