@@ -1,0 +1,11 @@
+$nomention
+
+$title[⚠️ Aviso Registrado]
+$description[**Usuário:** {user}
+**Motivo:** {reason}
+**Moderador:** {author}
+**Total de Avisos:** {warns}]
+$color[FFFF00]
+$footer[Sistema de avisos]
+
+$addTimestamp
