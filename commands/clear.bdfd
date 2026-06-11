@@ -1,0 +1,10 @@
+$nomention
+
+$title[🗑️ Mensagens Apagadas]
+$description[**Quantidade:** {amount} mensagens
+**Canal:** {channel}
+**Moderador:** {author}]
+$color[36393F]
+$footer[Limpeza de mensagens]
+
+$addTimestamp
